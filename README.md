@@ -11,7 +11,7 @@ This project builds a machine learning model to classify Iris flowers into three
   - Petal Width
   - Species (Target Variable)
 
-##🔍 Steps in This Project
+## 🔍 Steps in This Project
 1. **Data Preprocessing** - Checking missing values, encoding labels, feature scaling.
 2. **Exploratory Data Analysis** - Visualizing relationships between features.
 3. **Model Training** - Using Random Forest Classifier.
