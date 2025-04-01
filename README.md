@@ -12,7 +12,7 @@ This project builds a machine learning model to classify Iris flowers into three
   - Species (Target Variable)
 
 ##🔍 Steps in This Project
-1. ***Data Preprocessing** - Checking missing values, encoding labels, feature scaling.
+1. **Data Preprocessing** - Checking missing values, encoding labels, feature scaling.
 2. **Exploratory Data Analysis** - Visualizing relationships between features.
 3. **Model Training** - Using Random Forest Classifier.
 4. **Model Evaluation** - Checking accuracy and classification report.
